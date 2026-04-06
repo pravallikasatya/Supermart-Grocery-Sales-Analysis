@@ -1,0 +1,41 @@
+Order Date,Region,City,Category,Sub-Category,Product Name,Sales,Quantity,Profit
+2023-01-05,South,Chennai,Meat & Fish,Chicken,Chicken Breast,520,8,130
+2023-01-08,North,Delhi,Vegetables,Leafy,Spinach,150,4,35
+2023-01-12,East,Kolkata,Beverages,Soft Drinks,Coke,300,6,80
+2023-01-15,West,Mumbai,Snacks,Chips,Lays,250,5,60
+2023-02-02,South,Hyderabad,Meat & Fish,Fish,Salmon,600,9,150
+2023-02-10,North,Delhi,Fruits,Fresh Fruits,Apple,220,6,55
+2023-02-18,East,Kolkata,Vegetables,Root,Potato,210,10,70
+2023-02-25,West,Mumbai,Beverages,Juice,Orange Juice,350,7,95
+2023-03-05,South,Chennai,Snacks,Biscuits,Oreo,280,5,75
+2023-03-12,North,Delhi,Meat & Fish,Chicken,Chicken Wings,550,9,135
+2023-03-20,East,Kolkata,Fruits,Fresh Fruits,Mango,420,8,110
+2023-03-28,West,Mumbai,Vegetables,Leafy,Cabbage,190,6,50
+2023-04-04,South,Hyderabad,Beverages,Soft Drinks,Pepsi,320,7,85
+2023-04-12,North,Delhi,Snacks,Chips,Doritos,270,5,65
+2023-04-18,East,Kolkata,Meat & Fish,Fish,Tuna,620,10,160
+2023-04-25,West,Mumbai,Fruits,Fresh Fruits,Grapes,310,6,80
+2023-05-03,South,Chennai,Vegetables,Root,Carrot,200,7,60
+2023-05-10,North,Delhi,Beverages,Juice,Apple Juice,330,6,90
+2023-05-18,East,Kolkata,Snacks,Biscuits,Good Day,290,5,70
+2023-05-25,West,Mumbai,Meat & Fish,Chicken,Chicken Breast,580,9,140
+2023-06-02,South,Hyderabad,Fruits,Fresh Fruits,Banana,180,6,45
+2023-06-10,North,Delhi,Vegetables,Leafy,Spinach,160,5,40
+2023-06-18,East,Kolkata,Beverages,Soft Drinks,Coke,310,6,85
+2023-06-25,West,Mumbai,Snacks,Chips,Lays,260,5,65
+2023-07-05,South,Chennai,Meat & Fish,Fish,Salmon,650,10,170
+2023-07-12,North,Delhi,Fruits,Fresh Fruits,Apple,240,7,60
+2023-07-20,East,Kolkata,Vegetables,Root,Potato,230,10,75
+2023-07-28,West,Mumbai,Beverages,Juice,Orange Juice,360,7,100
+2023-08-05,South,Hyderabad,Snacks,Biscuits,Oreo,300,6,80
+2023-08-12,North,Delhi,Meat & Fish,Chicken,Chicken Wings,570,9,140
+2023-08-20,East,Kolkata,Fruits,Fresh Fruits,Mango,450,9,120
+2023-08-28,West,Mumbai,Vegetables,Leafy,Cabbage,210,6,55
+2023-09-04,South,Chennai,Beverages,Soft Drinks,Pepsi,340,7,90
+2023-09-12,North,Delhi,Snacks,Chips,Doritos,280,5,70
+2023-09-18,East,Kolkata,Meat & Fish,Fish,Tuna,660,10,180
+2023-09-25,West,Mumbai,Fruits,Fresh Fruits,Grapes,320,6,85
+2023-10-03,South,Hyderabad,Vegetables,Root,Carrot,220,7,65
+2023-10-10,North,Delhi,Beverages,Juice,Apple Juice,350,6,95
+2023-10-18,East,Kolkata,Snacks,Biscuits,Good Day,310,5,75
+2023-10-25,West,Mumbai,Meat & Fish,Chicken,Chicken Breast,600,9,150
